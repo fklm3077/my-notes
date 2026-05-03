@@ -16,3 +16,4 @@ Web安全、渗透测试、靶场练习记录
 # pikachu靶场教学
 
 - [暴力破解.md](pikachu靶场教学/暴力破解.md)
+- [XSS跨站脚本.md](pikachu靶场教学/XSS跨站脚本.md)
